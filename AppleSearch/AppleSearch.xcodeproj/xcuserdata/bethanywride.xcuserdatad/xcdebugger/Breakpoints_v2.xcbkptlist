@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96AB8A4C-2717-4645-8B45-8152666B5515"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A067C323-8322-4A08-A13D-8B485EC6B3FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppleSearch/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchMusicItemsWith(searchText:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DE872C5-7937-4868-A144-EC9537175A2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppleSearch/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "getMusicImageFor(item:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DE872C5-7937-4868-A144-EC9537175A2A - 1fc7bc28aeffd8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AppleSearch.SearchController.getMusicImageFor(item: AppleSearch.MusicSearchResult, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppleSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bethanywride/Desktop/DevMountain/iOS/Course%20Work/Week%203/Guided%20Projects/AppleSearch/AppleSearch/AppleSearch/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "522">
+               </Location>
+               <Location
+                  uuid = "9DE872C5-7937-4868-A144-EC9537175A2A - 1e3147cbddbb418e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static AppleSearch.SearchController.getMusicImageFor(item: AppleSearch.MusicSearchResult, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AppleSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bethanywride/Desktop/DevMountain/iOS/Course%20Work/Week%203/Guided%20Projects/AppleSearch/AppleSearch/AppleSearch/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "270">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
